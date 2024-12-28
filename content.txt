@@ -1,0 +1,133 @@
+Hero Section
+Hero Text:
+Find Your Dream Home with Ease!
+
+Description:
+Discover properties that suit your lifestyle and budget. Whether you're buying, selling, or renting, we’ve got the perfect solution for you. Your next home is just a search away!
+
+Search Form:
+Keyword,
+Property Type:
+
+Single-Family Home
+Apartment
+Condominium
+Townhouse
+Villa
+Bungalow
+Penthouse
+,
+Location,
+
+Search Button: "Find My Home"
+
+
+Featured Properties
+Headline:
+Featured Properties Just for You!
+
+Properties Section:
+
+Modern Family Home – Beds: 3 | Baths: 2 | Sqft: 1,150
+(Image of a contemporary home)
+Downtown Apartment – Beds: 2 | Baths: 1 | Sqft: 950
+Luxury Villa – Beds: 5 | Baths: 4 | Sqft: 3,200
+Cozy Bungalow – Beds: 3 | Baths: 2 | Sqft: 1,400
+Suburban Townhouse – Beds: 4 | Baths: 3 | Sqft: 2,000
+Charming Cottage – Beds: 2 | Baths: 1 | Sqft: 850
+Spacious Penthouse – Beds: 4 | Baths: 3 | Sqft: 2,800
+Modern Loft – Beds: 1 | Baths: 1 | Sqft: 700
+
+
+
+Your Trusted Partner in Real Estate
+
+Description:
+At Bento Works, we are dedicated to helping you find the perfect place to call home. With years of experience in the real estate market, our team specializes in buying, selling, and renting properties tailored to meet your unique needs. We pride ourselves on delivering exceptional service, transparency, and expert guidance throughout your real estate journey.
+
+Whether you're searching for your dream home, looking to sell at the best value, or seeking an ideal rental, we are here to make the process seamless and stress-free. Let us turn your property goals into reality.
+
+Tagline:
+"Your Home. Your Future. Our Commitment."
+
+
+Explore Cities
+Headline:
+Discover the Best Locations to Call Home
+
+Description:
+Browse top neighborhoods and cities that offer vibrant communities, great amenities, and stunning properties.
+
+Cities Section:
+
+Naperville - 300 Properties
+Pembroke Pines - 150 Properties
+Toledo - 250 Properties
+Paris - 111 Properties
+Miami – 85 Properties
+Austin – 14 Properties
+
+
+
+
+Our Services
+Headline:
+What We Offer
+
+Subheadings:
+
+Buy a New Home: Simplify your home-buying journey with expert guidance.
+Sell a Home: Get the best value for your property with our proven strategies.
+Rent a Home: Find rental properties that feel like home.
+
+
+Top Properties
+Headline:
+Explore Our Top-Rated Listings
+
+Description:
+Discover our most sought-after listings that combine luxury, comfort, and convenience. From stunning family homes to sleek urban apartments, these top-rated properties are handpicked to meet your lifestyle needs. Find your ideal space today!
+
+
+
+Our Testimonials
+Headline:
+What Our Clients Say
+
+Client Feedback:
+
+"We found our dream home within weeks. The team was amazing!" – Emily & John
+"Selling my property was seamless thanks to their expertise." – Mike D.
+"I found the perfect rental property in no time!" – Sophia R.
+
+
+Our Team
+Headline:
+Meet the Experts Behind Your Real Estate Journey
+
+Showcase your team with professional headshots and a short bio for each member:
+
+John Smith – Founder & Real Estate Specialist
+Jane Doe – Client Relations Manager
+James Brown – Property Consultant
+Lisa White – Marketing Expert
+
+
+Contact Us
+Headline:
+Get in Touch with Us Today!
+
+Contact Form:
+
+Name: [Input Field]
+Email: [Input Field]
+Phone: [Input Field]
+Message: [Text Area]
+Submit Button: "Send Message"
+
+
+Additional Info:
+
+Phone: +1 123-456-7890
+Email: contact@yourrealestate.com
+Address: 123 Real Estate Blvd, City, State, ZIP
