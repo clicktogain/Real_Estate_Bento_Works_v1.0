@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Responsive Real Estate Website with HTML CSS and JavaScript
 
 A modern responsive real estate website built using HTML, CSS & JavaScript to showcase properties and help boost sales with a clean and professional UI.
 
