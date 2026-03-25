@@ -32,7 +32,8 @@ Watch it on YouTube 📺: [https://youtu.be/KC_unLF-a4o](https://youtu.be/KC_unL
 
 ## Download Template
 
-[Download Now](https://buymeacoffee.com/clicktogain/e/349920)
+One Page Version: [Download Now](https://buymeacoffee.com/clicktogain/e/349920)
+Multi Page Version: [Download Now](https://buymeacoffee.com/clicktogain/e/510705)
 
 ---
 
